@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['addcontent_0',['addContent',['../class_ca_omex_manifest.html#a00ab8b32e63c84111a3f9cffb9c49d8e',1,'CaOmexManifest::addContent()'],['../class_ca_list_of_contents.html#a44909ff556f8e215ec68cdcab434b0a4',1,'CaListOfContents::addContent()']]],
+  ['addcontent_0',['addContent',['../class_ca_list_of_contents.html#a44909ff556f8e215ec68cdcab434b0a4',1,'CaListOfContents::addContent()'],['../class_ca_omex_manifest.html#a00ab8b32e63c84111a3f9cffb9c49d8e',1,'CaOmexManifest::addContent()']]],
   ['addcreator_1',['addCreator',['../class_omex_description.html#a711591f2ef0b947ad441480df2fbc7fa',1,'OmexDescription']]],
   ['addcrossref_2',['addCrossRef',['../class_ca_content.html#aa68d8ad2f2a0db1e203458b24f04c87e',1,'CaContent::addCrossRef()'],['../class_ca_list_of_cross_refs.html#ad8276e4533c2b4ad60e0cc735f2625e1',1,'CaListOfCrossRefs::addCrossRef()']]],
   ['addfile_3',['addFile',['../class_combine_archive.html#aed3a69282775b04415ffc6ec15d76bb6',1,'CombineArchive::addFile(const std::string &amp;fileName, const std::string &amp;targetName, const std::string &amp;format, bool isMaster=false)'],['../class_combine_archive.html#a1ac21be70c16ebadfcdc71537b75840f',1,'CombineArchive::addFile(std::istream &amp;stream, const std::string &amp;targetName, const std::string &amp;format, bool isMaster=false)']]],

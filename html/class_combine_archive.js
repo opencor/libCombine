@@ -26,6 +26,7 @@ var class_combine_archive =
     [ "getStream", "class_combine_archive.html#a7ab2af2282017bc07685f446293e8d86", null ],
     [ "hasMetadataForLocation", "class_combine_archive.html#a7682a2a60c149fb3376d905ce9cece8f", null ],
     [ "initializeFromArchive", "class_combine_archive.html#afdabfee04feddabb6aea700fff439374", null ],
+    [ "initializeFromArchive", "class_combine_archive.html#aa8896fc3d55e1ddc2e55f7f1e01cd794", null ],
     [ "initializeFromDirectory", "class_combine_archive.html#a466788707f9a7fababbb683340fa613f", null ],
     [ "setManifest", "class_combine_archive.html#afa5373d330243dffda207a4604c91ded", null ],
     [ "writeToFile", "class_combine_archive.html#a660c2152c728c1597383a09624799a5a", null ],

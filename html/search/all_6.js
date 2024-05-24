@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['initializefromarchive_0',['initializeFromArchive',['../class_combine_archive.html#afdabfee04feddabb6aea700fff439374',1,'CombineArchive']]],
+  ['initializefromarchive_0',['initializeFromArchive',['../class_combine_archive.html#afdabfee04feddabb6aea700fff439374',1,'CombineArchive::initializeFromArchive(const std::string &amp;archiveFile, bool skipOmex=false)'],['../class_combine_archive.html#aa8896fc3d55e1ddc2e55f7f1e01cd794',1,'CombineArchive::initializeFromArchive(zipper::Unzipper *pUnzipper, bool skipOmex=false)']]],
   ['initializefromdirectory_1',['initializeFromDirectory',['../class_combine_archive.html#a466788707f9a7fababbb683340fa613f',1,'CombineArchive']]],
   ['insert_2',['insert',['../class_ca_list_of.html#aaf4dd61b2e10c701ab776a4ec3da43df',1,'CaListOf']]],
   ['insertandown_3',['insertAndOwn',['../class_ca_list_of.html#a8cde67d466808a22d69c25f6228d7697',1,'CaListOf']]],
